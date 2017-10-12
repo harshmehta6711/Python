@@ -12,7 +12,7 @@ if isinstance(myfloat, float):
     print("The number is float, %f" % myfloat)
 if mystring == "hello":
     print("The string is %s" % mystring)
-newstr = "Java Programming"
+newstr = "Python Programming"
 print(newstr[1])
 print("Limiting the string ", newstr[6:9])  # First character is not included
 print("updating the string ", "Python" + newstr[4:])

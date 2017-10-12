@@ -2,6 +2,7 @@ one = 1
 two = 4
 print(one)
 print("The first variable")
+
 myint = 10
 mystring = "hello"
 myfloat = float(12)
